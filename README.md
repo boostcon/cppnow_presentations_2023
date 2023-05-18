@@ -1,4 +1,4 @@
-**CppNow Presentations 2023**
+# CppNow Presentations 2023
 
 - [A Deep Dive Into Dispatching Techniques](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/A_Deep_dive_into_dispatching_techniques.pdf) by Jonathan Müller
 - [All the Safeties](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/all_the_safeties.pdf) by Sean Parent
@@ -30,12 +30,15 @@
 - [Non-Uniform Memory Architecture (NUMA) - A Nearly Unfathomable Morass of Arcana](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Fedor_Pikus_-_NUMA.pdf) by Fedor Pikus
 - [Personal Log - Where No Init Has Gone Before](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Personal_Log__Where_No_Init_Has_Gone_Before_1.pptx) by Andrei Zissu
 - [Pipeflow - Task-Parallel Pipeline Scheduling Framework with Token Dependencies](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Pipeflow_Task-Parallel_Pipeline_Scheduling_Framework.pdf) by Cheng-Hsiang Chiu
+- [Reflect `*this`! - Design and Implementation of a Pragmatic Mixin Library with Static Reflection](https://asoffer.github.io/reflect-this-presentation/cppnow-2023) by Andy Soffer
 - [Requirements for C++ Successor Languages](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Requirements_for_Cpp_Successor_Languages.pdf) by Bret Brown
-- [Safety-First - Understanding How To Develop Safety-critical Software](Safety-First) by Andreas Weis
+- [Safety & Security: the future of C++](Safety & Security: the future of C++) by JF Bastien
+- [Safety-First - Understanding How To Develop Safety-critical Software](https://github.com/boostcon/cppnow_presentations_2023/blob/main/Safety-First) by Andreas Weis
 - [SIMD Libraries in C++](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/SIMD_Libraries_in_cpp.pdf) by Jeff Garland
 - [Speeding Date - Implementing Fast Calendar Algorithms](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Speeding_Date_Implementing_Fast_Calendar_Algorithms.pdf) by Cassio Neri
 - [take(5): - Adventures with Taking Elements from an Input Stream](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/take5_Adventures_with_Taking_Elements_from_an_Input_Stream.pdf) by Barry Revzin
 - [The Challenges of Implementing the C Standard Library in C++](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/The_Challenges_of_Implementing_the_C_Standard_Library_in_Cpp.pdf) by Siva Chandra Reddy
+- [The New Library on the Block - A Strong Library Foundation for Your next Project](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/C%2B%2BNow%202023%20-%20thnk-cell-library.pdf) by Jonathan Müller / Arno Schödl
 - [Under the Hood - Assembly, System Calls, and Hardware](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Under_the_Hood.pdf) by David Sankel
 - [Using Sender/Receiver to Implement Control Flow for Async Processing](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/using_sender_receiver_to_implement_control_flow_for_async_procesing.pdf) by Steve Downey
 - [What is Low Latency C++? (Part 1)](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/What_Is_Low_Latency_Cpp_Part1.pdf) & [(Part 2)](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/What_Is_Low_Latency_Cpp_Part2.pdf) by Timur Doumler
