@@ -32,7 +32,7 @@
 - [Pipeflow - Task-Parallel Pipeline Scheduling Framework with Token Dependencies](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Pipeflow_Task-Parallel_Pipeline_Scheduling_Framework.pdf) by Cheng-Hsiang Chiu
 - [Reflect `*this`! - Design and Implementation of a Pragmatic Mixin Library with Static Reflection](https://asoffer.github.io/reflect-this-presentation/cppnow-2023) by Andy Soffer
 - [Requirements for C++ Successor Languages](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Requirements_for_Cpp_Successor_Languages.pdf) by Bret Brown
-- [Safety & Security: the future of C++](Safety & Security: the future of C++) by JF Bastien
+- [Safety & Security: the future of C++](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Safety%20%E3%81%A8%20Security%E2%80%94The%20future%20of%20C%2B%2B.pdf) by JF Bastien
 - [Safety-First - Understanding How To Develop Safety-critical Software](https://github.com/boostcon/cppnow_presentations_2023/blob/main/Safety-First) by Andreas Weis
 - [SIMD Libraries in C++](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/SIMD_Libraries_in_cpp.pdf) by Jeff Garland
 - [Speeding Date - Implementing Fast Calendar Algorithms](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Speeding_Date_Implementing_Fast_Calendar_Algorithms.pdf) by Cassio Neri
