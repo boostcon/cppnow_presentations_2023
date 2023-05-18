@@ -1,4 +1,4 @@
-CppNow Presentations 2023
+**CppNow Presentations 2023**
 
 - [A Deep Dive Into Dispatching Techniques](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/A_Deep_dive_into_dispatching_techniques.pdf) by Jonathan Müller
 - [All the Safeties](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/all_the_safeties.pdf) by Sean Parent
@@ -31,7 +31,6 @@ CppNow Presentations 2023
 - [Personal Log - Where No Init Has Gone Before](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Personal_Log__Where_No_Init_Has_Gone_Before_1.pptx) by Andrei Zissu
 - [Pipeflow - Task-Parallel Pipeline Scheduling Framework with Token Dependencies](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Pipeflow_Task-Parallel_Pipeline_Scheduling_Framework.pdf) by Cheng-Hsiang Chiu
 - [Requirements for C++ Successor Languages](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Requirements_for_Cpp_Successor_Languages.pdf) by Bret Brown
-- [Safety & Security: the future of C++](Safety & Security: the future of C++) by JF Bastien
 - [Safety-First - Understanding How To Develop Safety-critical Software](Safety-First) by Andreas Weis
 - [SIMD Libraries in C++](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/SIMD_Libraries_in_cpp.pdf) by Jeff Garland
 - [Speeding Date - Implementing Fast Calendar Algorithms](https://github.com/boostcon/cppnow_presentations_2023/blob/main/cppnow_slides/Speeding_Date_Implementing_Fast_Calendar_Algorithms.pdf) by Cassio Neri
